@@ -1,26 +1,26 @@
 {
-  "store_id": 51625,
-  "name": "casadompatricio",
   "domain": "casadompatricio.netlify.app",
-  "short_name": "casadompatricio",
-  "description": "casadompatricio",
+  "currency_symbol": "R$",
   "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
   "theme": {
-    "bootswatch": "_",
-    "custom": "_"
+    "bootswatch": "spacelab",
+    "custom": "clean-white"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/casadompatricio",
+  "logo": "/img/uploads/logob.png",
+  "name": "Casa D'Patricio",
+  "short_name": "Casa D'Patricio",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
+  "mini_logo": "",
+  "font_family": "_",
+  "favicon": "/img/uploads/logob.png",
+  "icons_font": "font-awesome",
   "country_code": "BR",
-  "repository": "ecomplus-stores/casadompatricio",
-  "icons_font": "_",
-  "font_family": "_"
+  "secondary_color": "#e30f0f",
+  "icon": "/img/uploads/logob.png",
+  "store_id": 51625,
+  "description": "Casa D'Patricio Planejados - A sua melhor opção de compras pela internet",
+  "large_icon": "/img/uploads/logob.png"
 }
