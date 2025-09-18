@@ -1,7 +1,7 @@
 {
   "domain": "casadompatricio.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#222831",
+  "primary_color": "#0061f5",
   "theme": {
     "bootswatch": "spacelab",
     "custom": "clean-white"
@@ -15,12 +15,12 @@
   "currency": "BRL",
   "mini_logo": "",
   "font_family": "_",
-  "favicon": "/img/uploads/logob.png",
+  "favicon": "/img/uploads/fivecon.png",
   "icons_font": "font-awesome",
   "country_code": "BR",
   "secondary_color": "#e30f0f",
-  "icon": "/img/uploads/logob.png",
+  "icon": "/img/uploads/camada-11.png",
   "store_id": 51625,
   "description": "Casa D'Patricio Planejados - A sua melhor opção de compras pela internet",
-  "large_icon": "/img/uploads/logob.png"
+  "large_icon": "/img/uploads/camada-11.png"
 }
